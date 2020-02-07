@@ -4,6 +4,9 @@ I also pickled the objects, so we need to train models only once
 
 Here is the Jist of results I got
 test data =0.3
+
+
+
               Algorithm       Score_1        Score_2
 0   logistic_regerssion  9.415205e-01       0.743781
 1           GaussianNB:  9.239766e-01       0.619403
